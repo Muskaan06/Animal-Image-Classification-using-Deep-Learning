@@ -7,7 +7,7 @@ Unlike earlier projects (Heart Disease, Liver Cirrhosis, Forest Cover), this pro
 
 ---
 
-## 📘 Problem Overview
+## Problem Overview
 
 The dataset contains images belonging to the following **15 animal classes**:
 
@@ -53,7 +53,7 @@ This project uses **Transfer Learning** with **ResNet50**, a powerful CNN pretra
 
 ---
 
-## 📊 Model Performance
+## Model Performance
 
 ### **Training & Validation Metrics per Epoch**
 
@@ -72,7 +72,7 @@ This project uses **Transfer Learning** with **ResNet50**, a powerful CNN pretra
 
 ---
 
-### ✅ **Final Validation Accuracy**
+### **Final Validation Accuracy**
 - The model shows strong learning progression.  
 - Achieves **93% accuracy** on unseen validation images.  
 - Indicates successful transfer learning using ResNet50.
